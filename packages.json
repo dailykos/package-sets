@@ -297,7 +297,7 @@
     "version": "v3.3.0"
   },
   "d3": {
-    "dependencies": [],
+    "dependencies": ["either", "easy-ffi", "js-date"],
     "repo": "https://github.com/pelotom/purescript-d3.git",
     "version": "v0.9.0"
   },
@@ -395,6 +395,11 @@
     ],
     "repo": "https://github.com/purescript-contrib/purescript-drawing.git",
     "version": "v3.0.0"
+  },
+  "easy-ffi": {
+    "dependencies": [],
+    "repo": "https://github.com/pelotom/purescript-easy-ffi.git",
+    "version": "v2.0.0"
   },
   "echarts": {
     "dependencies": [
