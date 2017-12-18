@@ -296,6 +296,11 @@
     "repo": "https://github.com/slamdata/purescript-css.git",
     "version": "v3.3.0"
   },
+  "d3": {
+    "dependencies": [],
+    "repo": "https://github.com/pelotom/purescript-d3.git",
+    "version": "v0.9.0"
+  },
   "data-default": {
     "dependencies": [],
     "repo": "https://github.com/nkly/purescript-data-default.git",
